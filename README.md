@@ -36,5 +36,5 @@ Durante la lettura:
 
 ---
 
-*Repository:* [`lorenzo_ingegnere_finale.git`](#)  
+*Repository:* [`https://github.com/tomoqt/lollo.exe.git`](#)  
 *Stato build:* ✅ SYSTEM APPROVED  
