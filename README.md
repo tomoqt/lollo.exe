@@ -1,5 +1,5 @@
 # 💻 CODE REVIEW DEL SISTEMA LORENZO 2.0  
-### Script per il Presentatore
+### Spiegazione del gioco 
 
 ---
 
